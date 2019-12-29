@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Firebase CRUD App </string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>POP</item>
+        <item>Sufi</item>
+        <item>Folk</item>
+    </array>
+</resources>
